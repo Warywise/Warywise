@@ -1,9 +1,13 @@
 ### Olá, sou Gustavo Sant'Anna 👋
 
+---
+
 - 🔭 Buscando atuar no mercado de trabalho como Frontend Developer Jr.
 - 🌱 No momento, estou aprendendo Next.js e Typescript.
 - :thought_balloon: Sou um indivíduo com a mente livre, que sabe construir o seu lugar no mundo.
 - :rocket: Aprendendo a cada dia mais que a evolução não tem marcha ré!
+
+---
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=warywise&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -22,5 +26,8 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div>
+
+---
+
 <br><br>
 Créditos ao <a href="https://github.com/joaoreisjpk/joaoreisjpk"><i>João Pedro Reis</i></a>
