@@ -28,6 +28,9 @@
 </div>
 
 ---
+<br>
 
-<br><br>
+Contato: <b>g_santanna@outlook.com</b>
+
+<br><br><br>
 Créditos ao <a href="https://github.com/joaoreisjpk/joaoreisjpk"><i>João Pedro Reis</i></a>
