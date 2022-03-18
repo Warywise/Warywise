@@ -3,7 +3,7 @@
 ---
 
 - 🔭 Buscando atuar no mercado de trabalho como Frontend Developer Jr.
-- 🌱 No momento, estou aprendendo Node.js e Typescript.
+- 🌱 No momento, estou me aprofundando em Node.js e Typescript.
 - :thought_balloon: Sou um indivíduo com a mente livre, que sabe construir o seu lugar no mundo.
 - :rocket: Aprendendo a cada dia mais que a evolução não tem marcha ré!
 
