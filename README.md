@@ -2,8 +2,8 @@
 
 ---
 
-- 🔭 Buscando atuar no mercado de trabalho como Frontend ou Fullstack Developer Jr.
-- 🌱 No momento, estou me aprofundando em Node.js e Typescript.
+- 👨‍💻 Atuo como Desenvolvedor Fullstack, com foco nas techs Typescript, NodeJs e React.
+- 🌱 No momento, estou me aprofundando em Type ORM e no framework React-admin.
 - :thought_balloon: Sou um indivíduo com a mente livre, que sabe construir o seu lugar no mundo.
 - :rocket: Aprendendo a cada dia mais que a evolução não tem marcha ré!
 
