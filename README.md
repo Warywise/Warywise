@@ -3,7 +3,7 @@
 ---
 
 - 👨‍💻 Atuo como Desenvolvedor Fullstack, com foco nas techs Typescript, NodeJs e React.
-- 🌱 No momento, estou me aprofundando em Type ORM e no framework React-admin.
+- 🌱 Estive um tempo longe aqui, pois estava utilizando o Bitbucket, mas nunca longe da programação.
 - :thought_balloon: Sou um indivíduo com a mente livre, que sabe construir o seu lugar no mundo.
 - :rocket: Aprendendo a cada dia mais que a evolução não tem marcha ré!
 
@@ -26,6 +26,7 @@
   <h3>Backend Skills</h3>
   <img align="center" alt="Docker" height="60" width="70" src="https://icongr.am/devicon/docker-original-wordmark.svg">
   <img align="center" alt="MySql" height="60" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg">
+  <img align="center" alt="PostgreSql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Node" height="50" width="60" src="https://icongr.am/devicon/nodejs-original.svg">
   <img align="center" alt="Express" height="60" width="70" src="https://icongr.am/devicon/express-original-wordmark.svg">
   <img align="center" alt="Mocha" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
