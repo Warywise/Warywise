@@ -2,19 +2,20 @@
 
 ---
 
-- 👨‍💻 Atuo como Desenvolvedor Fullstack, com foco nas techs Typescript, NodeJs e React.
-- 🌱 Estive um tempo longe aqui do Github, pois estava utilizando o Bitbucket, mas nunca longe da programação.
+- 👨‍💻 Atuo como Desenvolvedor Fullstack, com foco nas techs Typescript, NodeJs e React/React Native.
+- 🌱 Às vezes passo um tempo longe daqui do Github, pois utilizo também o Bitbucket, mas nunca longe da programação.
 - :thought_balloon: Sou um indivíduo com a mente livre, que sabe construir o seu lugar no mundo.
-- :rocket: No momento, esstou desenvolvendo meu inglês e me aprofundando em técnicas de Scrum e Gestão de Projetos!
+- :rocket: No momento, estou desenvolvendo meu inglês e me aprofundando em técnicas de Scrum e Gestão de Projetos!
 
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=warywise&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warywise&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <div align="center">
+  <h3>Algumas de minhas habilidades:</h3>
+  <br>
   <h3>Frontend Skills</h3>
   <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
