@@ -5,7 +5,7 @@
 - 👨‍💻 Atuo como Desenvolvedor Fullstack, com foco nas techs Typescript, NodeJs e React/React Native.
 - 🌱 Às vezes passo um tempo longe daqui do Github, pois utilizo também o Bitbucket, mas nunca longe da programação.
 - :thought_balloon: Sou um indivíduo com a mente livre, que sabe construir o seu lugar no mundo.
-- :rocket: No momento, estou desenvolvendo meu inglês e me aprofundando em técnicas de Scrum e Gestão de Projetos!
+- :rocket: No momento, estou desenvolvendo meu inglês e me aprofundando numa nova linguagem C#!
 
 ---
 
